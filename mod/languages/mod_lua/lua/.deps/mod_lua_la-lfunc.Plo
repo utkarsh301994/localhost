@@ -1,0 +1,64 @@
+lua/mod_lua_la-lfunc.lo: lua/lfunc.c \
+  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/6.1.0/include/stddef.h \
+  /usr/local/src/freeswitch/src/mod/languages/mod_lua/lua/lua.h \
+  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/6.1.0/include/stdarg.h \
+  /usr/local/src/freeswitch/src/mod/languages/mod_lua/lua/luaconf.h \
+  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/6.1.0/include/limits.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/usr/include/limits.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/usr/include/sys/cdefs.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/usr/include/sys/_symbol_aliasing.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/usr/include/sys/_posix_availability.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/usr/include/machine/limits.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/usr/include/i386/limits.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/usr/include/i386/_limits.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/usr/include/sys/syslimits.h \
+  /usr/local/src/freeswitch/src/mod/languages/mod_lua/lua/lfunc.h \
+  /usr/local/src/freeswitch/src/mod/languages/mod_lua/lua/lobject.h \
+  /usr/local/src/freeswitch/src/mod/languages/mod_lua/lua/llimits.h \
+  /usr/local/src/freeswitch/src/mod/languages/mod_lua/lua/lgc.h \
+  /usr/local/src/freeswitch/src/mod/languages/mod_lua/lua/lstate.h \
+  /usr/local/src/freeswitch/src/mod/languages/mod_lua/lua/ltm.h \
+  /usr/local/src/freeswitch/src/mod/languages/mod_lua/lua/lzio.h \
+  /usr/local/src/freeswitch/src/mod/languages/mod_lua/lua/lmem.h
+
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/6.1.0/include/stddef.h:
+
+/usr/local/src/freeswitch/src/mod/languages/mod_lua/lua/lua.h:
+
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/6.1.0/include/stdarg.h:
+
+/usr/local/src/freeswitch/src/mod/languages/mod_lua/lua/luaconf.h:
+
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/6.1.0/include/limits.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/usr/include/limits.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/usr/include/sys/cdefs.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/usr/include/sys/_symbol_aliasing.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/usr/include/sys/_posix_availability.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/usr/include/machine/limits.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/usr/include/i386/limits.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/usr/include/i386/_limits.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/usr/include/sys/syslimits.h:
+
+/usr/local/src/freeswitch/src/mod/languages/mod_lua/lua/lfunc.h:
+
+/usr/local/src/freeswitch/src/mod/languages/mod_lua/lua/lobject.h:
+
+/usr/local/src/freeswitch/src/mod/languages/mod_lua/lua/llimits.h:
+
+/usr/local/src/freeswitch/src/mod/languages/mod_lua/lua/lgc.h:
+
+/usr/local/src/freeswitch/src/mod/languages/mod_lua/lua/lstate.h:
+
+/usr/local/src/freeswitch/src/mod/languages/mod_lua/lua/ltm.h:
+
+/usr/local/src/freeswitch/src/mod/languages/mod_lua/lua/lzio.h:
+
+/usr/local/src/freeswitch/src/mod/languages/mod_lua/lua/lmem.h:
